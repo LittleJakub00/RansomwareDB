@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-02",
+        "victim": "Institut technologique de Sonora (Itson)",
+        "domain": "itson.edu.mx",
+        "country": "MEX",
+        "summary": "L'Institut technologique de Sonora (Itson) a \u00e9t\u00e9 victime d'une cyberattaque, o\u00f9 un virus a \u00e9t\u00e9 plant\u00e9 sur le campus central, affectant les serveurs et les connexions Wi-Fi de l'universit\u00e9. Les \u00e9quipes d'informatique ont travaill\u00e9 pour identifier et r\u00e9soudre le probl\u00e8me, tandis que des syst\u00e8mes de communication alternatifs ont \u00e9t\u00e9 mis en place pour permettre la poursuite des activit\u00e9s acad\u00e9miques et administratives. Les cours ont continu\u00e9 normalement, sans interruption, malgr\u00e9 les perturbations caus\u00e9es par l'attaque.",
+        "title": "Itson sufre ciberataque en Cajeme; plantan virus cibern\u00e9tico en el campus centro - Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/itson-sufre-ciberataque-en-cajeme-plantan-virus-cibernetico-en-el-campus-centro/84832",
+        "added": "2024-06-03"
+    },
+    {
         "date": "2024-05-30",
         "victim": "Newfoundland Broadcasting Company Limited (NBCL)",
         "domain": "ntv.ca",
@@ -58,6 +68,16 @@
         "title": "",
         "url": "https://nanao.cybtex.fr/@minus/112523568369091981",
         "added": "2024-05-29"
+    },
+    {
+        "date": "2024-05-27",
+        "victim": "The Billericay School",
+        "domain": "billericayschool.com",
+        "country": "GBR",
+        "summary": "L'\u00e9cole de Billericay, dans l'Essex, a d\u00e9clar\u00e9 une \"situation critique\" apr\u00e8s avoir \u00e9t\u00e9 cibl\u00e9e par une cyberattaque pendant les vacances de demi-trimestre. Les syst\u00e8mes de l'\u00e9cole ont \u00e9t\u00e9 compromis malgr\u00e9 la pr\u00e9sence de pare-feu et de s\u00e9curit\u00e9 anti-malware standard de l'industrie. L'\u00e9cole sera ferm\u00e9e pour certains \u00e9l\u00e8ves le lundi pour permettre au personnel de se pr\u00e9parer \u00e0 donner des cours sans acc\u00e8s \u00e0 leurs ressources habituelles.",
+        "title": "The Billericay School faces critical incident after cyber attack",
+        "url": "https://www.bbc.com/news/articles/cl44877v7xxo",
+        "added": "2024-06-01"
     },
     {
         "date": "2024-05-26",
@@ -978,25 +998,5 @@
         "title": "Des donn\u00e9es personnelles \"compromises\": Speedy France victime d'une cyberattaque",
         "url": "https://www.bfmtv.com/tech/actualites/cybersecurite/des-donnees-personnelles-compromises-speedy-france-victime-d-une-cyberattaque_AV-202404190752.html",
         "added": "2024-04-20"
-    },
-    {
-        "date": "2024-04-09",
-        "victim": "Extern",
-        "domain": "extern.org",
-        "country": "IRL",
-        "summary": "Un enqu\u00eate polici\u00e8re a \u00e9t\u00e9 lanc\u00e9e suite \u00e0 une violation de donn\u00e9es dans une attaque de ransomware contre une association qui travaille avec des enfants vuln\u00e9rables. Extern, une association de justice sociale transfrontali\u00e8re avec des bureaux \u00e0 Belfast et dans le comt\u00e9 de Kildare, a confirm\u00e9 \u00eatre victime d'une importante cyberattaque par ransomware.",
-        "title": "Authorities investigating ransomware attack on charity that works with vulnerable children",
-        "url": "https://www.thejournal.ie/extern-data-breach-6356433-Apr2024/",
-        "added": "2024-04-17"
-    },
-    {
-        "date": "2024-04-09",
-        "victim": "Pak Suzuki",
-        "domain": "suzukipakistan.com",
-        "country": "PAK",
-        "summary": "L'article rapporte que Pak Suzuki a \u00e9t\u00e9 victime d'une cyberattaque, comme annonc\u00e9 par Mettis Global Link. Les d\u00e9tails techniques ou l'impact de l'attaque sur les op\u00e9rations de l'entreprise ne sont pas pr\u00e9cis\u00e9s dans l'extrait fourni. Il est mentionn\u00e9 que les donn\u00e9es sont retard\u00e9es de 20 minutes, mais le contexte de cette information n'est pas clair sans informations suppl\u00e9mentaires.",
-        "title": "Pak Suzuki hit by cyber-attack - Mettis Global Link",
-        "url": "https://mettisglobal.news/pak-suzuki-hit-by-cyber-attack/",
-        "added": "2024-04-15"
     }
 ]
