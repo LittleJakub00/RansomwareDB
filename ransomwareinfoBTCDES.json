@@ -1,43 +1,20 @@
 [
     {
-        "available": true,
-        "enabled": false,
-        "lastscrape": "",
         "title": "Locky",
-        "Description": "Locky is ransomware malware released in 2016. It is delivered by email with an attached Microsoft Word document that contains malicious macros. When the user opens the document, it appears to be full of gibberish, and includes the phrase 'Enable macro if data encoding is incorrect,' a social engineering technique",
-        "URL": "www.locky.com",
-        "updated": "",
-        "version": 0,
-        "meta": "Locky",
-        "name": "Locky",
-        "MD-5": "f526a8ea744a8c5051453453453453453",
-        "profile": []
+        "description": "Locky is ransomware malware released in 2016. It is delivered by email with an attached Microsoft Word document that contains malicious macros. When the user opens the document, it appears to be full of gibberish, and includes the phrase 'Enable macro if data encoding is incorrect,' a social engineering technique",
+        "url": "www.locky.com",
+        "md5": "f526a8ea744a8c5051453453453453453"
     },
     {
-        "available": true,
-        "enabled": false,
-        "lastscrape": "",
         "title": "Akira",
-        "Description": "First discovered in early 2023, Akira ransomware seemed to be just another ransomware family that entered the market. Its continued activity and numerous victims are our main motivators to investigate the malware’s inner workings to empower blue teams to create additional defensive rules outside of their already in-place security.",
-        "URL": "www.Akira.com",
-        "updated": "",
-        "version": 0,
-        "meta": "Akira",
-        "name": "Akira",
-        "MD-5": "f526a8ea744a8c5051deefbf2c6010af",
-        "profile": []
+        "description": "First discovered in early 2023, Akira ransomware seemed to be just another ransomware family that entered the market. Its continued activity and numerous victims are our main motivators to investigate the malware’s inner workings to empower blue teams to create additional defensive rules outside of their already in-place security.",
+        "url": "www.Akira.com",
+        "md5": "f526a8ea744a8c5051deefbf2c6010af"
     },
     {
-        "available": true,
-        "enabled": false,
-        "lastscrape": "",
         "title": "MedusaLocker",
-        "Description": "A Windows ransomware that will run certain tasks to prepare the target system for the encryption of files. MedusaLocker avoids executable files, probably to avoid rendering the targeted system unusable for paying the ransom. It uses a combination of AES and RSA-2048, and reportedly appends extensions such as .encrypted, .bomber, .boroff, .breakingbad, .locker16, .newlock, .nlocker, and .skynet.",
-        "URL": "www.MedusaLocker.com",
-        "updated": "",
-        "version": 0,
-        "meta": "MedusaLocker",
-        "name": "MedusaLocker",
-        "MD-5": "sdasdsda744anbmty051deefbf2c6dfgdfg",
-        "profile": []
-    },
+        "description": "A Windows ransomware that will run certain tasks to prepare the target system for the encryption of files. MedusaLocker avoids executable files, probably to avoid rendering the targeted system unusable for paying the ransom. It uses a combination of AES and RSA-2048, and reportedly appends extensions such as .encrypted, .bomber, .boroff, .breakingbad, .locker16, .newlock, .nlocker, and .skynet.",
+        "url": "www.MedusaLocker.com",
+        "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
+    }
+]
