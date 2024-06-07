@@ -1,7 +1,7 @@
 [
     {
         "title": "Locky",
-        "description": "Locky is ransomware malware released in 2016. It is delivered by email with an attached Microsoft Word document that contains malicious macros. When the user opens the document, it appears to be full of gibberish, and includes the phrase 'Enable macro if data encoding is incorrect,' a social engineering technique",
+        "description": "Locky is ransomware malware released in 2016. It is delivered by email with an attached Microsoft Word document that contains malicious macros. When the user opens the document, it appears to be full of gibberish, and includes the phrase 'Enable macro if data encoding is incorrect,' a social engineering technique.",
         "url": "www.locky.com",
         "md5": "f526a8ea744a8c5051453453453453453"
     },
@@ -16,22 +16,22 @@
         "description": "A Windows ransomware that will run certain tasks to prepare the target system for the encryption of files. MedusaLocker avoids executable files, probably to avoid rendering the targeted system unusable for paying the ransom. It uses a combination of AES and RSA-2048, and reportedly appends extensions such as .encrypted, .bomber, .boroff, .breakingbad, .locker16, .newlock, .nlocker, and .skynet.",
         "url": "www.MedusaLocker.com",
         "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
-    }
+    },
     {
         "title": "BlackCat",
         "description": "BlackCat operates on a ransomware as a service (RaaS) model, with developers offering the malware for use by affiliates and taking a percentage of ransom payments. For initial access, the ransomware relies essentially on stolen credentials obtained through initial access brokers. The group operates a public data leak site to pressure victims to pay ransom demands.",
         "url": "www.BlackCat.com",
         "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
-    }
+    },
     {
         "title": "Mallox",
         "description": "Mallox, a strain of ransomware and a group with the same name, encrypts its victims’ data and subsequently demands a ransom, typically in cryptocurrency, in return for providing the decryption key, just as a usual ransomware operator. However, this ransomware exhibited more destructiveness than many other ransomware variants in some cases. The Mallox ransomware strain and the group behind it, has been operational since around mid-2021 and is still active as of 2024.",
         "url": "www.Mallox.com",
         "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
-    }
+    },
     {
         "title": "Black Basta",
-        "description": "Black Basta first emerged in early 2022.  The ransomware family is an evolution of the Hermes/Ryuk/Conti families.  Black Basta was heavily advertised in underground cybercrime markets.  Black Basta practices double extortion – demanding payment for a decryptor, as well as for the non-release of stolen data.  There are Windows and LInux variants of Black Basta ransomware.",
+        "description": "Black Basta first emerged in early 2022. The ransomware family is an evolution of the Hermes/Ryuk/Conti families. Black Basta was heavily advertised in underground cybercrime markets. Black Basta practices double extortion – demanding payment for a decryptor, as well as for the non-release of stolen data. There are Windows and Linux variants of Black Basta ransomware.",
         "url": "www.Black_Basta.com",
         "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
     }
