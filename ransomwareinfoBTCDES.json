@@ -17,4 +17,22 @@
         "url": "www.MedusaLocker.com",
         "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
     }
+    {
+        "title": "BlackCat",
+        "description": "BlackCat operates on a ransomware as a service (RaaS) model, with developers offering the malware for use by affiliates and taking a percentage of ransom payments. For initial access, the ransomware relies essentially on stolen credentials obtained through initial access brokers. The group operates a public data leak site to pressure victims to pay ransom demands.",
+        "url": "www.BlackCat.com",
+        "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
+    }
+    {
+        "title": "Mallox",
+        "description": "Mallox, a strain of ransomware and a group with the same name, encrypts its victims’ data and subsequently demands a ransom, typically in cryptocurrency, in return for providing the decryption key, just as a usual ransomware operator. However, this ransomware exhibited more destructiveness than many other ransomware variants in some cases. The Mallox ransomware strain and the group behind it, has been operational since around mid-2021 and is still active as of 2024.",
+        "url": "www.Mallox.com",
+        "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
+    }
+    {
+        "title": "Black Basta",
+        "description": "Black Basta first emerged in early 2022.  The ransomware family is an evolution of the Hermes/Ryuk/Conti families.  Black Basta was heavily advertised in underground cybercrime markets.  Black Basta practices double extortion – demanding payment for a decryptor, as well as for the non-release of stolen data.  There are Windows and LInux variants of Black Basta ransomware.",
+        "url": "www.Black_Basta.com",
+        "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
+    }
 ]
