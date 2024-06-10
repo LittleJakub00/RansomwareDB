@@ -7,7 +7,7 @@
     },
     {
         "title": "Akira",
-        "description": "First discovered in early 2023, Akira ransomware seemed to be just another ransomware family that entered the market. Its continued activity and numerous victims are our main motivators to investigate the malware’s inner workings to empower blue teams to create additional defensive rules outside of their already in-place security.",
+        "description": "Akira is a Ransomware-as-a-Service (RaaS) operation which targets organizations in a number of industries and regions. First observed in March 2023, Akira appears to be a novel ransomware strain, written in C++. Akira uses double extortion tactics to incentivize its victims to pay the demanded ransom; as well as encrypting an organization's data, it also exfiltrates and threatens to release the data on its dark web leaks site. In addition to targeting Windows machines, Akira also has a version aimed at encryption on Linux operating systems. ",
         "url": "www.Akira.com",
         "md5": "f526a8ea744a8c5051deefbf2c6010af"
     },
