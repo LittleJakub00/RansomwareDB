@@ -82,7 +82,7 @@
     {
         "activity": "Transportation and storage",
         "country": "",
-        "description": "Founded in 1991, The Oahu Transit Services Group (OTS) owns and operates a fleet of buses for Honolulu, Hawaii, referred to collectively as TheBus.They recently began a new commuter ferry service, called The Boat.\n\nAnother major leak, about 800,000 records that include personal data of customers, you can get acquainted with the columns of the database, \n\n[RecNum]\n[RefNo]\n[Reason]\n[IDType]\n[IDNumber]\n[PassType]\n[Fee]\n[FName]\n[LName]\n[Addr1]\n[Addr2]\n[City]\n[State]\n[ZipCode]\n[Phone]\n[SSN]\n[Sex]\n[DOB]\n[Resident_Status]\n[ExpDate]\n[NewExpDate]\n[ADAFlag]\n[PCAFlag]\n[Desc1]\n[Desc2]\n[Dept]\n[Comments]\n[Duration]\n[Months]\n[Login]\n[EXCLUDE]\n[LOCATION]\n[IDTYPE_CODE]\n[REASON_CODE]\n[ModDate]\n[ModBy]\n[SAFLAG]\n[BUSEXPDATE]\n[IDTYPE_CODE2]\n[DISABILITY_STATUS]\n[NEWBUSEXPDATE]\n\nwe give this company 7 days to get in touch, otherwise their customers will suffer due to their negligence. ",
+        "description": "Founded in 1991, The Oahu Transit Services Group (OTS) owns and operates a fleet of buses for Honolulu, Hawaii. ",
         "discovered": "2024-06-15 14:47:57.736614",
         "group_name": "dragonforce",
         "infostealer": {
