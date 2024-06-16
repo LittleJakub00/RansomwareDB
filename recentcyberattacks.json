@@ -1,13 +1,63 @@
 [
     {
+        "date": "2024-06-14",
+        "victim": "GlobalWafers",
+        "domain": "gw-semi.com",
+        "country": "TWN",
+        "summary": "GlobalWafers, a manufacturer of semiconductor silicon wafers, reported a cyberattack that affected some production lines. The company will use existing inventory to fulfill orders, but delivery delays could occur into the third quarter. Investigations and recovery efforts are underway, with measures to strengthen cybersecurity.",
+        "title": "Chip giant attacked by hackers! - EE Times",
+        "url": "https://www.eet-china.com/mp/a322544.html",
+        "added": "2024-06-14"
+    },
+    {
+        "date": "2024-06-12",
+        "victim": "Richland School District",
+        "domain": "rsd.edu",
+        "country": "USA",
+        "summary": "The Richland School District in Washington state was the victim of a cyberattack that resulted in a two-day phone and internet outage, rendering information inaccessible to parents, students and teachers. District IT teams detected unauthorized access to some computer systems and took the precaution of disconnecting other systems to investigate the incident. Registration data, grades, and registration portals remain inaccessible online until systems are restored.",
+        "title": "Cyber Attack Takes Richland, Wash., Schools Offline",
+        "url": "https://www.govtech.com/education/k-12/cyber-attack-takes-richland-wash-schools-offline",
+        "added": "2024-06-15"
+    },
+    {
+        "date": "2024-06-12",
+        "victim": "Commune de Benalmádena",
+        "domain": "benalmadena.es",
+        "country": "ESP",
+        "summary": "The city council of Benalmádena, Spain, was the victim of a cyberattack. Municipal technicians, external experts and cybersecurity companies work together to ensure data security and prevent new attacks. Web services have been temporarily suspended as a precaution, but citizens can still complete procedures in person and use the electronic platform.",
+        "title": "CYBER ATTACK IN BENALMÁDENA | The Benalmádena City Council suffers a cyber attack and evaluates its scope",
+        "url": "https://www.laopiniondemalaga.es/costa-sol-occidental/2024/06/12/ayuntamiento-benalmadena-sufre-ciberataque-madrugada-103675712.html",
+        "added": "2024-06-14"
+    },
+    {
+        "date": "2024-06-12",
+        "victim": "Axido",
+        "domain": "axido.fr",
+        "country": "FRA",
+        "summary": "Axido, a digital services company, was the victim of a cyberattack, which required the isolation of its information system to limit the impacts. Investigations are underway with the help of an independent expert firm recommended by Anssi, and the competent authorities have been contacted. So far, no leaks of sensitive or personal data have been detected, but restoring the systems will take time.",
+        "title": "ESN: Axido (Proxiteam group) faced with a cyberattack | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366588799/ESN-Axido-groupe-Proxiteam-confronte-a-une-cyberattaque",
+        "added": "2024-06-14"
+    },
+    {
         "date": "2024-06-11",
         "victim": "Mercatino dell'usato",
         "domain": "mercatinousato.com",
         "country": "ITA",
-        "summary": "A hacker attack hit Mercatino dell'usato, stealing customer information. The objective of the computer attack was to demand a ransom from this leading second-hand sales chain.",
+        "summary": "A hacker attack hit Mercatino dell'usato, stealing customer information. The aim of the cyber assault was to demand a ransom from this leading chain of second-hand sales.",
         "title": "The hacker attack on the second-hand market: customer information stolen",
         "url": "https://roma.repubblica.it/cronaca/2024/06/12/news/lattacco_hacker_al_mercatino_dellusato_rubate_le_informazioni_sui_clienti-423217462/",
         "added": "2024-06-12"
+    },
+    {
+        "date": "2024-06-10",
+        "victim": "Crown Equipment Corporation",
+        "domain": "crown.com",
+        "country": "USA",
+        "summary": "Crown Equipment Corporation, a forklift manufacturer, is feared to have been the victim of a cyberattack that led to the closure of its websites and shutdown of its production plants around the world. Employees have been sent home and information systems have been offline since June 10, 2024. Company management is refusing to comment on the incident, leaving employees and customers in limbo.",
+        "title": "Crown Equipment victim of a cyber attack? - sites and production down | Born's Tech and Windows World",
+        "url": "https://borncity.com/win/2024/06/13/crown-equipment-victim-of-a-cyber-attack-sites-and-production-down/",
+        "added": "2024-06-16"
     },
     {
         "date": "2024-06-10",
@@ -85,7 +135,7 @@
         "domain": "asst-rhodense.it",
         "country": "ITA",
         "summary": "ASST Rhodense, an Italian healthcare facility, was the victim of a cyberattack that knocked out its IT systems. Hackers demand a ransom in exchange for data restoration. Details of the attack and the ransom demanded are not specified.",
-        "title": "Hacker attack on Asst Rhodense, computer systems down. Ransom demanded",
+        "title": "Hacker attack on Asst Rhodense, computer systems in haywire. Demanded a ransom",
         "url": "https://www.rainews.it/tgr/lombardia/articoli/2024/06/attacco-hacker-allasst-rhodense-sistemi-informatici-in-tilt-5fa93ac7-6ef1-4d95-b27f-0ab87db8a8ec.html",
         "added": "2024-06-06"
     },
@@ -118,6 +168,16 @@
         "title": "Ransomware attack hits Vietnam Post | Vietnam+ (VietnamPlus)",
         "url": "https://en.vietnamplus.vn/ransomware-attack-hits-vietnam-post-post288028.vnp",
         "added": "2024-06-04"
+    },
+    {
+        "date": "2024-06-02",
+        "victim": "Special Health Resources (SHR)",
+        "domain": "specialhealth.org",
+        "country": "USA",
+        "summary": "Special Health Resources (SHR) was the victim of a ransomware attack, attributed to the BlackSuit group, which caused “technical difficulties” and disruption to health services. SHR clinics are partially closed and patients can only be seen for urgent consultations. The BlackSuit group has threatened to release the stolen data if SHR does not respond to their demands.",
+        "title": "Special Health Resources' \"technical difficulties\" are due to a ransomware attack - DataBreaches.net",
+        "url": "https://databreaches.net/2024/06/10/special-health-resources-technical-difficulties-are-due-to-a-ransomware-attack/",
+        "added": "2024-06-13"
     },
     {
         "date": "2024-06-02",
@@ -154,7 +214,7 @@
         "victim": "Boyertown Area School District",
         "domain": "boyertownasd.org",
         "country": "USA",
-        "summary": "The Boyertown Area School District in Berks and Montgomery counties in Pennsylvania canceled the last two days of classes due to technical issues with its network servers, affecting heating and cooling systems, as well as telephone and intercom. District buildings will be closed Thursday and Friday, but the graduation ceremony will take place as scheduled. Students and families are encouraged to follow instructions provided by the district to resolve technical issues.",
+        "summary": "The Boyertown Area School District in Berks and Montgomery counties in Pennsylvania canceled the last two days of school due to technical issues with its network servers, affecting heating and cooling systems, as well as telephone and intercom. District buildings will be closed Thursday and Friday, but the graduation ceremony will take place as scheduled. Students and families are encouraged to follow instructions provided by the district to resolve technical issues.",
         "title": "Boyertown Area School District cancels last 2 days of classes in Berks, Montgomery counties due to network server issues - 6abc Philadelphia",
         "url": "https://6abc.com/post/boyertown-area-school-district-cancels-2-days-classes/14888892/",
         "added": "2024-05-31"
@@ -174,7 +234,7 @@
         "victim": "Guardian Childcare",
         "domain": "guardian.edu.au",
         "country": "AUS",
-        "summary": "Childcare provider Guardian Childcare, Victoria's largest, has been targeted by a cyberattack. The company confirmed that confidential data was compromised, but it did not specify what type of information was stolen. Investigations are ongoing to determine the extent of the security breach.",
+        "summary": "Victoria's largest child care provider Guardian Childcare has been targeted by a cyber attack. The company has confirmed confidential data was compromised, but has not said what type of information was stolen. Investigations are ongoing to determine the extent of the security breach.",
         "title": "Guardian Childcare hack: Victoria's largest childcare provider targeted in cyber attack",
         "url": "https://www.9news.com.au/national/guardian-childcare-victoria-suffers-cyber-attack-affecting-thousands-of-families/cdf9d285-4ece-413c-8f43-8413f6ff1825",
         "added": "2024-05-30"
@@ -204,7 +264,7 @@
         "victim": "Uniprévoyance",
         "domain": "uniprevoyance.fr",
         "country": "FRA",
-        "summary": "Uniprévoyance says it has been the victim of a computer attack that has forced it to shut down all of its tools. Its teams, assisted by experts, are working to identify the damage and restore the situation as quickly as possible.",
+        "summary": "Uniprévoyance claims to be the victim of a computer attack which forced it to shut down all of its tools. Its teams, assisted by experts, are working to identify the damage and restore the situation as quickly as possible.",
         "title": "",
         "url": "https://nanao.cybtex.fr/@minus/112523568369091981",
         "added": "2024-05-29"
@@ -224,7 +284,7 @@
         "victim": "Center Line Public Schools",
         "domain": "clps.org",
         "country": "USA",
-        "summary": "Center Line School District in Michigan was hit by a ransomware cyberattack, which forced the school to close on Tuesday. IT teams were able to contain the attack and schools will reopen on Wednesday, May 29. A third-party team has been hired to assess the attack and ensure the district’s operations are secure.",
+        "summary": "The Center Line School District in Michigan was the victim of a ransomware cyberattack, leading to the school's closure on Tuesday. IT teams managed to contain the attack and schools will reopen on Wednesday May 29. A third-party team was hired to assess the attack and ensure the security of the district's operations.",
         "title": "Center Line Public Schools set to reopen after cyberattack",
         "url": "https://www.clickondetroit.com/news/local/2024/05/28/center-line-public-schools-set-to-reopen-after-cyberattack/",
         "added": "2024-05-29"
@@ -255,7 +315,7 @@
         "domain": "mobitwin.be",
         "country": "BEL",
         "summary": "A cyberattack targeted the company Mobitwin, which provides a transport service for people with reduced mobility, which made the online reservation system inaccessible. Users can no longer plan their trips and customer data is no longer accessible. Users are encouraged to contact the transportation service directly to plan their trips.",
-        "title": "Cyber ​​attack disrupts transport planning for people with reduced mobility (Kruibeke) | Het Nieuwsblad",
+        "title": "Cyber ​​attack disrupts planning for transport of less mobile people (Kruibeke) | The newspapaer",
         "url": "https://www.nieuwsblad.be/cnt/dmf20240528_95024372",
         "added": "2024-05-28"
     },
@@ -264,7 +324,7 @@
         "victim": "Islamabad Safe City Authority",
         "domain": "islamabadpolice.gov.pk",
         "country": "PAK",
-        "summary": "The Islamabad Safe City Authority's online system was taken offline after an attempted computer intrusion, which allowed hackers to access the main server and sensitive data. Officials closed all access to the system to prevent possible further damage. The investigation found that simple, commonly used passwords and logins by officials left the system vulnerable to intrusion.",
+        "summary": "The online system of the Islamabad Safe City Authority was taken offline after an attempted computer intrusion, which allowed hackers to access the main server and sensitive data. Officials closed all access to the system to prevent possible further damage. The investigation found that simple, commonly used passwords and logins by officials had left the system vulnerable to intrusion.",
         "title": "Islamabad Safe City’s online system shut down after hacking attempt - Pakistan - DAWN.COM",
         "url": "https://www.dawn.com/news/1835677/islamabad-safe-citys-online-system-shut-down-after-hacking-attempt",
         "added": "2024-05-28"
@@ -304,7 +364,7 @@
         "victim": "Top-Medien",
         "domain": "toponline.ch",
         "country": "CHE",
-        "summary": "The Top-Medien media group, which includes Radio Top and Tele Top, has been the victim of a cyberattack by a Trojan that infected and encrypted several servers, causing disruptions in the online, radio and television media offering. The attack began on 21 May 2024 and technical teams are working with external experts to assess the extent of the attack and restore affected data and programmes. Radio Top management said the attack was massive and that Top-Medien was under pressure.",
+        "summary": "The Top-Medien media group, which includes Radio Top and Tele Top, was the victim of a cyberattack by a Trojan which infected and encrypted several servers, leading to disruptions in the provision of online media, radio and television. The attack began on May 21, 2024 and technical teams are working with external experts to assess the scope of the attack and restore affected data and programs. The management of Radio Top declared that the attack was massive and that the Top-Medien were under pressure.",
         "title": "Trojan paralyzes parts of top media | IT market",
         "url": "https://www.it-markt.ch/news/2024-05-22/trojaner-legt-teile-von-top-medien-lahm",
         "added": "2024-05-23"
@@ -364,7 +424,7 @@
         "victim": "American Radio Relay League (ARRL)",
         "domain": "arrl.org",
         "country": "USA",
-        "summary": "The American Radio Relay League (ARRL), the national amateur radio association in the United States, has confirmed that it was the victim of a cyberattack that affected its systems and services, including its \"Logbook of The World\" database. . The attack compromised sensitive information such as addresses and phone numbers, but not Social Security numbers or credit card information. This cyberattack comes against a backdrop of numerous attacks against critical infrastructure, particularly in the health sector.",
+        "summary": "The American Radio Relay League (ARRL), the national amateur radio association in the United States, has confirmed that it was the victim of a cyberattack that affected its systems and services, including its \"Logbook of The World\" database. . The attack compromised sensitive information such as addresses and phone numbers, but not Social Security numbers or credit card information. This cyberattack is part of a context of numerous attacks against critical infrastructures, particularly in the health sector.",
         "title": "American Radio Relay League Confirms Cyberattack Disrupted Operations | Tech Times",
         "url": "https://www.techtimes.com/articles/304782/20240519/american-radio-relay-league-confirms-cyberattack-disrupting-operations.htm",
         "added": "2024-05-20"
@@ -374,7 +434,7 @@
         "victim": "Central Contra Costa Transit Authority (County Connection)",
         "domain": "ccta.net",
         "country": "USA",
-        "summary": "The Central Contra Costa Transit Authority, a bus and paratransit operator in California, suffered a cyberattack, which allowed an unauthorized actor to access files and data stored in its network. The investigation is ongoing to determine what specific data was compromised, but there is no evidence yet that any financial information or Social Security numbers were stolen. The bus operator is taking steps to secure its network and plans to notify affected individuals once the investigation is complete.",
+        "summary": "The Central Contra Costa Transit Authority, a bus and paratransit operator in California, suffered a cyberattack that allowed an unauthorized actor to access files and data stored on its network. The investigation is ongoing to determine what specific data was compromised, but there is no evidence yet that financial information or Social Security numbers were stolen. The bus operator is taking steps to secure its network and plans to notify affected individuals once the investigation is complete.",
         "title": "Central Contra Costa Transit Authority experiences cyber security data breach | KRON4",
         "url": "https://www.kron4.com/news/bay-area/contra-costa-transit-authority-experiences-cyber-security-data-breach/",
         "added": "2024-05-20"
@@ -394,7 +454,7 @@
         "victim": "Ranzijn",
         "domain": "ranzijn.nl",
         "country": "NLD",
-        "summary": "The Ranzijn chain of veterinary clinics in the Netherlands was the victim of a cyberattack, resulting in the theft of data on animals and their owners. The company warns its customers to be vigilant for possible phishing emails that may be sent in its name. The details of the incident are not yet clear, but the company is taking steps to protect customer data.",
+        "summary": "The Ranzijn veterinary clinic chain in the Netherlands has been the victim of a cyberattack, resulting in the theft of data on animals and their owners. The company is warning its customers to be vigilant about possible phishing emails that could be sent in its name. The details of the incident are not yet clear, but the company is taking measures to protect its customers' data.",
         "title": "Veterinary practice Ran is a victim of cyber attack: animal and owner data stolen | West Betuwe | AD.nl",
         "url": "https://www.ad.nl/west-betuwe/dierenartspraktijk-ranzijn-slachtoffer-van-cyberaanval-gegevens-van-dieren-en-baasjes-gestolen~a6bc2e82/",
         "added": "2024-05-20"
@@ -404,7 +464,7 @@
         "victim": "Rockford Public Schools",
         "domain": "rockfordschools.org",
         "country": "USA",
-        "summary": "The Rockford, Michigan school district was hit by a ransomware cyberattack, shutting down its computer network and phones. School officials took steps to protect the data and contacted the FBI to investigate the incident. Classes continue as normal, but without access to technology, students and teachers must use more traditional methods.",
+        "summary": "The Rockford, Michigan school district was hit by a ransomware attack that shut down its computer network and phones. School officials took steps to protect data and contacted the FBI to investigate the incident. Classes are continuing as normal, but without access to technology, students and teachers are having to rely on more traditional methods.",
         "title": "Rockford Public Schools ransomware update | wzzm13.com",
         "url": "https://www.wzzm13.com/article/news/local/rockford-public-schools-ransomware-attack/69-b80e015e-2310-43aa-859b-b17f1678e591",
         "added": "2024-05-16"
@@ -434,7 +494,7 @@
         "victim": "First Nations Health Authority (FNHA)",
         "domain": "fnha.ca",
         "country": "CAN",
-        "summary": "British Columbia's First Nations Health Authority (FNHA) was the victim of a cyberattack that compromised personal information of employees and others. The incident was detected on May 13 and measures were taken to block unauthorized access and prevent further illicit activities. The investigation is ongoing and the relevant authorities have been notified, but no clinical information has been compromised.",
+        "summary": "The First Nations Health Authority (FNHA) of British Columbia has been the victim of a cyberattack that compromised personal information of employees and others. The incident was detected on May 13 and steps were taken to block unauthorized access and prevent further illicit activity. The investigation is ongoing and the appropriate authorities have been notified, but no clinical information has been compromised.",
         "title": "Cyberattack hits B.C.'s First Nations Health Authority | CTV News",
         "url": "https://bc.ctvnews.ca/b-c-s-first-nations-health-authority-hit-by-cyberattack-1.6897203",
         "added": "2024-05-23"
@@ -445,7 +505,7 @@
         "domain": "pau.aeroport.fr",
         "country": "FRA",
         "summary": "The Pau airport and business school were victims of a cyberattack, causing disruptions to their activities. The details of the attack and its consequences have not yet been clarified. Investigations are underway to determine the origin and motivations of this attack.",
-        "title": "Pau airport and business school victims of cyber attack - France Bleu",
+        "title": "Pau airport and business school victims of cyberattack - France Bleu",
         "url": "https://www.francebleu.fr/infos/faits-divers-justice/l-aeroport-et-l-ecole-de-commerce-de-pau-victimes-d-une-cyberattaque-6303207",
         "added": "2024-05-16"
     },
@@ -454,10 +514,20 @@
         "victim": "Universidad Complutense de Madrid",
         "domain": "ucm.es",
         "country": "ESP",
-        "summary": "The Universidad Complutense de Madrid has been the victim of a cyberattack targeting the application that manages internships in companies, which may have exposed student data. The incident affected one of the university's systems, putting the confidentiality of students' information at risk. The details of the attack and the extent of the data leak are not yet known.",
+        "summary": "The Universidad Complutense de Madrid was the victim of a cyberattack targeting the application managing corporate internships, which may have exposed student data. The incident affected one of the university's systems, putting the confidentiality of student information at risk. Details of the attack and the extent of the data leak are not yet known.",
         "title": "The Complutense University of Madrid suffers a cyberattack on the application that manages company practices that \"may have exposed\" student data - El Correo de Pozuelo",
         "url": "https://elcorreodepozuelo.com/2024/05/13/la-universidad-complutense-de-madrid-sufre-un-ciberataque-en-la-aplicacion-que-gestiona-practicas-de-empresa-que-ha-podido-exponer-datos-de-alumnos/",
         "added": "2024-05-15"
+    },
+    {
+        "date": "2024-05-12",
+        "victim": "Kulicke & Soffa Industries, Inc.",
+        "domain": "kns.com",
+        "country": "USA",
+        "summary": "Kulicke & Soffa Industries, a provider of semiconductor packaging and electronic assembly solutions, suffered a data breach that compromised approximately 12 million files, including source code, engineering data, information about business partners and personal information. The company's security team responded quickly to contain and isolate the affected servers and reported the incident to authorities. The investigation is ongoing to determine the extent of the breach and take steps to strengthen the security of the company's systems.",
+        "title": "Kulicke & Soffa Data Breach - 12 Million Files Leaked",
+        "url": "https://cybersecuritynews.com/kulicke-soffa-data-breach/",
+        "added": "2024-06-13"
     },
     {
         "date": "2024-05-12",
@@ -498,6 +568,16 @@
         "title": "Cyberattack on Wehrle-Werk AG - Emmendingen - Badische Zeitung",
         "url": "https://www.badische-zeitung.de/cyberattacke-auf-wehrle-werk-ag",
         "added": "2024-05-23"
+    },
+    {
+        "date": "2024-05-10",
+        "victim": "La médecine du travail de Charente (SPSTI)",
+        "domain": "spsti16.fr",
+        "country": "FRA",
+        "summary": "Charente occupational medicine (SPSTI) was the victim of a cyberattack, leading to the hacking of personal data of some of the 85,000 employees of its 7,700 members, in particular names, first names, dates of birth, email and postal addresses, telephone and social security numbers. The data of certain private companies and public establishments were also targeted. The SPSTI has set up a crisis unit and recommends that monitored employees be extra vigilant in the face of possible fraudulent requests.",
+        "title": "Occupational medicine in Charente victim of a cyberattack: personal data of employees hacked - Charente Libre.fr",
+        "url": "https://www.charentelibre.fr/sante/la-medecine-du-travail-de-charente-victime-d-une-cyberattaque-des-donnees-personnelles-de-salaries-piratees-20132500.php",
+        "added": "2024-06-15"
     },
     {
         "date": "2024-05-08",
@@ -554,7 +634,7 @@
         "victim": "Palomar Health",
         "domain": "palomarhealth.org",
         "country": "USA",
-        "summary": "Palomar Health Medical Group was the victim of a cyberattack, leading to problems for patients who cannot pick up their prescriptions and have difficulty accessing their medical records. The company said 80% of its operations should be restored within a week. Ransomware attacks against hospitals have increased by 300% and are often linked to Russian hackers, according to a cybersecurity expert.",
+        "summary": "Palomar Health Medical Group was the victim of a cyberattack, leading to issues for patients who cannot pick up their prescriptions and have difficulty accessing their medical records. The company said 80% of its operations should be restored within a week. Ransomware attacks against hospitals have increased by 300% and are often linked to Russian hackers, according to a cybersecurity expert.",
         "title": "Suspected cyberattack creating headaches for patients of Palomar Health",
         "url": "https://www.10news.com/news/local-news/suspected-cyberattack-creating-headaches-for-patients-of-palomar-health-medical-group",
         "added": "2024-05-29"
@@ -564,7 +644,7 @@
         "victim": "Concord Public Schools et Concord-Carlisle Regional School District",
         "domain": "concordps.org",
         "country": "USA",
-        "summary": "Concord Public Schools and the Concord-Carlisle Regional School District were victims of a cyberattack, which resulted in a ransom demand and affected home computers. Security teams are working to restore systems and contain the attack, while school cafeterias will be taking cash for snacks due to the disruption. The investigation is ongoing to determine whether sensitive data was compromised.",
+        "summary": "Concord Public Schools and the Concord-Carlisle Regional School District have been hit by a cyberattack that resulted in a ransom demand and impacted personal computers. Security teams are working to restore systems and contain the attack, while school cafeterias will be taking cash for snacks due to the disruption. The investigation is ongoing to determine if sensitive data was compromised.",
         "title": "Report: Concord schools hit with cyber attack",
         "url": "https://www.bostonglobe.com/2024/05/07/metro/report-concord-schools-hit-with-cyber-attack/",
         "added": "2024-05-08"
@@ -594,7 +674,7 @@
         "victim": "Regional Cancer Center (RCC)",
         "domain": "rcctvm.gov.in",
         "country": "IND",
-        "summary": "A cyberattack from abroad has disrupted radiotherapy treatments at the Regional Cancer Centre (RCC) in India, affecting 14 servers, 11 of which have been recovered, with treatment scheduled to resume next week. Authorities are considering terrorism charges against the perpetrators, similar to a previous case involving Chinese hackers who attacked Delhi's AIIMS in 2022.",
+        "summary": "A cyberattack from abroad disrupted radiotherapy treatments at the Regional Cancer Center (RCC) in India, affecting 14 servers, 11 of which have been recovered, with treatment scheduled to resume next week. Authorities are considering terrorism charges against the perpetrators of the attack, similar to a previous case involving Chinese hackers who attacked Delhi's AIIMS in 2022.",
         "title": "Radiation treatment within one week: Cyber ​​attack on RCC from abroad; charges of terrorism to be charged against accused - KERALA - GENERAL | Kerala Kaumudi Online",
         "url": "https://keralakaumudi.com/en/news/news.php?id=1298702&u=radiation-treatment-within-one-week-cyber-%E2%80%8B%E2%80%8Battack-on-rcc-from-abroad-charges-of-terrorism-to%C2%A0be-charged%C2%A0against-accused",
         "added": "2024-05-04"
@@ -604,7 +684,7 @@
         "victim": "Coradix-Magnescan",
         "domain": "radiologie-perpignan.fr",
         "country": "FRA",
-        "summary": "The Coradix-Magnescan medical radiology group was the victim of a cyberattack which affected several of its medical imaging sites in the Pyrénées-Orientales. The relevant authorities have been informed and an investigation is underway to discover the origin of the attack, but so far no data breach has been detected. The imaging center teams are working to ensure that examinations are carried out in the best possible conditions despite a degraded operating mode.",
+        "summary": "The medical radiology group Coradix-Magnescan was the victim of a cyberattack that affected several of its medical imaging sites in the Pyrénées-Orientales. The competent authorities have been informed and an investigation is underway to discover the origin of the attack, but for the moment, no data breach has been detected. The teams at the imaging centers are working to ensure that examinations are carried out in the best possible conditions despite a degraded operating mode.",
         "title": "Pyrénées-Orientales: several medical imaging sites victims of a cyberattack - lindependant.fr",
         "url": "https://www.lindependant.fr/2024/05/07/pyrenees-orientales-de-nombreux-sites-dimagerie-medicale-victimes-dune-cyberattaque-11936827.php",
         "added": "2024-05-07"
@@ -614,7 +694,7 @@
         "victim": "Cégep de Lanaudière",
         "domain": "cegep-lanaudiere.qc.ca",
         "country": "CAN",
-        "summary": "The Cégep de Lanaudière was the victim of a cyberattack on Friday, which led to the closure of the three schools today and tomorrow. The investigation is ongoing with a cybersecurity firm and experts are monitoring the \"Dark Web\" for possible data leaks. An action plan has been put in place to get the servers back up and running and a communication will be sent on Tuesday to reveal the procedure to follow.",
+        "summary": "The Cégep de Lanaudière was the victim of a cyberattack on Friday, which led to the closure of the three educational establishments today and tomorrow. The investigation is ongoing with a cybersecurity firm and experts are monitoring the \"Dark Web\" for possible data leaks. An action plan has been put in place to get the servers back up and running and a communication will be sent on Tuesday to reveal the procedure to follow.",
         "title": "The three constituents of Cégep de Lanaudière victims of a cyberattack",
         "url": "https://monjoliette.com/les-trois-constituantes-du-cegep-de-lanaudiere-victimes-dune-cyberattaque/",
         "added": "2024-05-06"
@@ -644,7 +724,7 @@
         "victim": "Umeå universitet",
         "domain": "umu.se",
         "country": "SWE",
-        "summary": "ITS, the IT Support and Systems Development unit at Umeå University, discovered the cyberattack at 08:30 on May 2. Immediate and extensive troubleshooting efforts were undertaken, as well as other measures to stop the attack, in collaboration with external specialists.",
+        "summary": "ITS, the IT support and systems development unit at Umeå University, discovered the cyberattack at 08:30 on May 2. Immediate and extensive troubleshooting efforts were undertaken, as well as other measures to stop the attack, in collaboration with external specialists.",
         "title": "Umeå University exposed to extensive cyber attack",
         "url": "https://www.umu.se/nyheter/umea-universitet-utsatt-for-omfattande-cyberattack_11935138/",
         "added": "2024-05-02"
@@ -674,7 +754,7 @@
         "victim": "City of Helsinki",
         "domain": "hel.fi",
         "country": "FIN",
-        "summary": "The city of Helsinki suffered a data breach that affected tens of thousands of students, tutors and staff, exposing personal and confidential information. The investigation is ongoing to determine the extent and impact of the incident, which was caused by the exploitation of an unpatched vulnerability in the Education Division's network. The city has already implemented security measures to prevent further attacks.",
+        "summary": "The City of Helsinki has suffered a data breach that affected tens of thousands of students, tutors and staff, exposing personal and confidential information. The investigation is ongoing to determine the extent and impact of the incident, which was caused by the exploitation of an unpatched vulnerability in the Education Division's network. The city has already implemented security measures to prevent further attacks.",
         "title": "City of Helsinki suffered a data breach",
         "url": "https://securityaffairs.com/163088/data-breach/city-of-helsinki-data-breach.html",
         "added": "2024-05-15"
@@ -685,7 +765,7 @@
         "domain": "univ-guyane.fr",
         "country": "GUF",
         "summary": "The University of Guyana was the victim of a cyberattack which resulted in the encryption and deletion of some files, as well as the destruction of the faculty's website. The hackers demand a ransom in exchange for the return of the data, but management refuses to pay. An investigation is underway to determine the origin of the attack and assess the damage.",
-        "title": "University of Guyana victim of cyberattack",
+        "title": "The University of Guyana victim of a cyberattack",
         "url": "https://www.franceguyane.fr/actualite/education-sante-environnement/luniversite-de-guyane-victime-dune-cyberattaque-986312.php",
         "added": "2024-05-07"
     },
@@ -694,7 +774,7 @@
         "victim": "Mineola Union Free School District",
         "domain": "mineola.k12.ny.us",
         "country": "USA",
-        "summary": "School officials confirmed that a cyberattack occurred at the Mineola Union Free School District, causing an internet and phone outage. A message sent to parents revealed that the cause of the outage was a cyberattack, and that steps were being taken with the security provider to restore service. The district expects to have internet and phone access restored by Wednesday night, in time for the resumption of classes on Thursday.",
+        "summary": "School officials have confirmed that a cyberattack took place within the Mineola Union Free School District, resulting in an internet and phone outage. A message sent to parents revealed that the cause of the outage was due to a cyberattack, and that steps were being taken with the security provider to restore service. The district plans to restore internet and phone access by Wednesday evening, in time for classes to resume on Thursday.",
         "title": "School officials: Cyberattack causes internet, phone outage at Mineola Public Schools",
         "url": "https://longisland.news12.com/school-officials-cyberattack-causes-internet-phone-outage-at-mineola-public-schools",
         "added": "2024-05-02"
@@ -704,7 +784,7 @@
         "victim": "Universidad de las Américas de Puebla (UDLAP)",
         "domain": "udlap.mx",
         "country": "MEX",
-        "summary": "The Universidad de las Américas de Puebla (UDLAP) suffered a cyberattack that disrupted its internet services and technology platforms. The situation was contained, identified and mitigated using the university's defense systems, with assistance from cybersecurity partners Dell and Palo Alto. Services are being restored, including the Blackboard platform which is already operational, although access requires a specific temporary link.",
+        "summary": "The Universidad de las Américas de Puebla (UDLAP) suffered a cyberattack that disrupted its internet services and technology platforms. The situation was contained, identified and mitigated using the university's defense systems, with assistance from cybersecurity partners Dell and Palo Alto. Services are being restored, including the Blackboard platform which is already operational, although access requires a temporary specific link.",
         "title": "Alert in the UDLAP: Suffering from a cyber attack",
         "url": "https://www.diariocambio.com.mx/2024/educacion/alerta-en-la-udlap-sufre-ataque-cibernetico/",
         "added": "2024-05-01"
@@ -784,8 +864,8 @@
         "victim": "Municipalité de La Guadeloupe",
         "domain": "munlaguadeloupe.qc.ca",
         "country": "CAN",
-        "summary": "The city's computer systems were disconnected and IT and cybersecurity experts took charge. Specialized analysts are investigating the incident and the impacts on data on computer servers.",
-        "title": "Cyberattack at the Municipality of La Guadeloupe - L’Éclaireur Progrès",
+        "summary": "Municipal IT systems were disconnected and IT and cybersecurity experts took matters into their own hands. Specialized analysts are investigating the incident and the impacts on computer server data.",
+        "title": "Cyber ​​attack on the Municipality of La Guadeloupe - L’Éclaireur Progrès",
         "url": "https://www.leclaireurprogres.ca/faits-divers/cyberattaque-a-la-municipalite-de-la-guadeloupe/",
         "added": "2024-04-27"
     },
@@ -794,7 +874,7 @@
         "victim": "Skanlog",
         "domain": "skanlog.com",
         "country": "SWE",
-        "summary": "A ransomware-type cyberattack has been launched against Skanlog, a major distributor for Systembolaget in Sweden, leading to distribution issues and the possibility of some products being sold out before the weekend. Skanlog management confirmed that the attack has crippled their system until a solution can be found to restore it. As a result, Systembolaget, which is affected by the disruption, anticipates that this could impact the availability of some beverage categories, although there is no immediate risk of all shelves being empty.",
+        "summary": "A ransomware cyberattack has been launched against Skanlog, a major distributor for Systembolaget in Sweden, leading to distribution issues and the possibility that some products will sell out before the weekend. Skanlog management confirmed that the attack crippled their system until a solution was found to restore it. As a result, Systembolaget, which is affected by this disruption, anticipates that this could impact the availability of certain beverage categories, although there is no immediate risk of seeing all shelves empty.",
         "title": "Hacker attacks can result in empty shelves at Systembolaget - E24",
         "url": "https://e24.no/internasjonal-oekonomi/i/5EJxXE/hackerangrep-kan-gi-tomme-hyller-hos-systembolaget",
         "added": "2024-04-24"
@@ -805,7 +885,7 @@
         "domain": "mairie-albi.fr",
         "country": "FRA",
         "summary": "The town hall of Albi, in Tarn, has suffered a cyberattack since April 22, 2024, resulting in the inaccessibility of its telephone numbers, emails and IT services. Municipal services are striving to restore normal operations while ensuring the continuity of public service. The nature and origin of the attack have not been revealed, but a complaint was filed by the town hall with the police.",
-        "title": "A cyberattack in progress at the town hall of Albi - France Bleu",
+        "title": "A cyberattack in progress at Albi town hall - France Bleu",
         "url": "https://www.francebleu.fr/infos/faits-divers-justice/une-cyber-attaque-en-cours-a-la-mairie-d-albi-6909499",
         "added": "2024-04-23"
     },
@@ -854,7 +934,7 @@
         "victim": "Ordre des infirmières et infirmiers du Québec (OIIQ)",
         "domain": "oiiq.org",
         "country": "CAN",
-        "summary": "The Order of Nurses of Quebec (OIIQ) was the victim of a ransomware cyberattack, resulting in the online publication of sensitive personal data of its members, including information such as contact details, social insurance numbers, and more. The hackers demanded a US$200,000 ransom for not disclosing or deleting the 112 gigabytes of stolen data. The OIIQ is conducting an in-depth investigation to secure its IT environment, while Quebec's largest nurses' union organization is closely monitoring the situation, and the government seems ineffective in the face of increasing ransomware attacks.",
+        "summary": "The Ordre des infirmières et infirmiers du Québec (OIIQ) has been the victim of a ransomware cyberattack, leading to the online publication of sensitive personal data of its members, including information such as contact information, social insurance numbers, and more. The hackers demanded a ransom of US$200,000 not to disclose or delete the 112 gigabytes of stolen data. The OIIQ is conducting a thorough investigation to secure its IT environment, while Quebec’s largest nurses’ union is closely monitoring the situation, and the government appears ineffective in the face of the increase in ransomware attacks.",
         "title": "Ransomware attack | Data leak on Quebec nurses | The Press",
         "url": "https://www.lapresse.ca/actualites/2024-04-23/attaque-au-rancongiciel/fuite-de-donnees-sur-les-infirmieres-du-quebec.php",
         "added": "2024-04-24"
@@ -864,7 +944,7 @@
         "victim": "Swisspro",
         "domain": "swisspro.ch",
         "country": "CHE",
-        "summary": "Swisspro companies, part of BKW Building Solutions, were hit by a ransomware attack in early April, affecting their legacy IT environment. A taskforce has been set up to assess the impact and possible consequences of the attack, while taking immediate measures such as isolating affected systems and changing passwords. There has been no indication of outbound attacks affecting customers or other companies within BKW, and Swisspro is able to continue providing its services.",
+        "summary": "Swisspro companies, part of BKW Building Solutions, were hit by a ransomware attack in early April, affecting their old IT environment. A taskforce has been set up to assess the impact and possible consequences of the attack, while taking immediate measures such as isolating affected systems and changing passwords. There have been no indications of outbound attacks affecting customers or other companies within BKW, and Swisspro is able to continue providing its services.",
         "title": "Swisspro group victim of ransomware attack | ICTjournal",
         "url": "https://www.ictjournal.ch/news/2024-04-22/le-groupe-swisspro-victime-dune-attaque-par-ransomware",
         "added": "2024-04-23"
@@ -874,7 +954,7 @@
         "victim": "Carpetright",
         "domain": "carpetright.co.uk",
         "country": "GBR",
-        "summary": "Carpetright, a British flooring retail chain, was the victim of a cyberattack by unknown hackers who used malware to gain unauthorized access to its network. The attack disrupted hundreds of customer orders and forced the company to take its network offline at its head office in Purfleet, Essex, also affecting phone lines. The company isolated the virus before any data was stolen and advised that neither customer nor employee data was impacted, while continuing to investigate and restore systems.",
+        "summary": "Carpetright, a UK flooring retailer, has been hit by a cyberattack by unknown hackers who used malware to gain unauthorized access to its network. The attack disrupted hundreds of customer orders and forced the company to take its network offline at its head office in Purfleet, Essex, also affecting phone lines. The company isolated the virus before any data was stolen and said no customer or employee data had been impacted, while investigations and systems restoration work continued.",
         "title": "Carpetright customers hit by cyber attack as firm struggles to fill orders after hackers target company HQ | The Sun",
         "url": "https://www.thesun.co.uk/money/27434828/carpetright-orders-disrupted-cyber-attack-hack/",
         "added": "2024-04-20"
@@ -884,7 +964,7 @@
         "victim": "Floirac",
         "domain": "floirac.fr",
         "country": "FRA",
-        "summary": "Since Thursday evening, Floirac municipal services have been facing a cyberattack, leading to a cut in Internet access and making digital operations impossible. The community assures that no data has been stolen or any system damaged, but the services are currently operating in degraded mode. Investigations to determine the origin of the attack are continuing, and the reopening of online procedures is expected in the coming hours.",
+        "summary": "Since Thursday evening, the municipal services of Floirac have been facing a cyberattack, leading to a cut in Internet access and making digital operations impossible. The community assures that no data has been stolen nor any system damaged, but the services are currently operating in degraded mode. Investigations to determine the origin of the attack are continuing, and the reopening of online procedures is expected in the coming hours.",
         "title": "Cyberattack stopped in Floirac: municipal services nevertheless deprived of Internet this Friday",
         "url": "https://www.sudouest.fr/gironde/floirac/cyberattaque-stoppee-a-floirac-les-services-municipaux-neanmoins-prives-d-internet-ce-vendredi-19397237.php",
         "added": "2024-04-20"
@@ -914,89 +994,9 @@
         "victim": "Écoles du comté de Glynn",
         "domain": "glynn.k12.ga.us",
         "country": "USA",
-        "summary": "A cyberattack on Glynn County Schools' IT infrastructure Wednesday knocked out internet connections throughout the system, causing an outage that persisted Thursday and is expected to last through Friday. No sensitive information would have been compromised according to a school official. The school's IT team and a third-party monitoring program detected suspicious activity on the network, resulting in the Internet being shut down to prevent intrusion.",
+        "summary": "A cyberattack on Glynn County Schools' IT infrastructure Wednesday knocked out internet connections throughout the system, causing an outage that persisted Thursday and is expected to last through Friday. No sensitive information would have been compromised according to a school official. The school's IT team and a third-party monitoring program detected suspicious activity on the network, which resulted in the Internet being shut down to prevent intrusion.",
         "title": "School system hit by cyberattck, shuts down internet, programs | Local News | thebrunswicknews.com",
         "url": "https://thebrunswicknews.com/breaking/school-system-hit-by-cyberattack-shuts-down-internet-programs/article_8674a373-f472-56a3-a237-b88abd4cf357.html",
         "added": "2024-04-19"
-    },
-    {
-        "date": "2024-04-17",
-        "victim": "Legislative Bill Drafting Commission",
-        "domain": "nyassembly.gov",
-        "country": "USA",
-        "summary": "A cyberattack targeted the New York State Bill Drafting Commission, disrupting the drafting and publication of bills for the FY 2025 spending plan and causing a delay in the passage of the state budget. Details of the attack, such as its origin, the data compromised, and the extent of the damage, remained unclear, but efforts were underway to find temporary solutions and prevent significant delays in the budget process.",
-        "title": "Cyberattack on NY bill drafting commission causes delay in state budget passage | Globe Echo",
-        "url": "https://globeecho.com/cyberattack-on-ny-bill-drafting-commission-causes-delay-in-state-budget-passage/",
-        "added": "2024-04-18"
-    },
-    {
-        "date": "2024-04-16",
-        "victim": "Groupe Tea",
-        "domain": "teaspa.it",
-        "country": "ITA",
-        "summary": "The Comune di Mantova was the victim of a cyberattack on April 16, 2024, which affected certain technological applications of the Tea company. According to investigators, there was no loss or permanent deletion of personal data, but a criminal group claimed responsibility for the exfiltration of certain information, including personal data. Investigations are continuing to determine the nature and extent of the violation of confidentiality of personal data processed in the name and on behalf of the Comune di Mantova.",
-        "title": "Announcement from the Municipality of Mantua",
-        "url": "https://www.comune.mantova.it/tutte-le-notizie/comunicati-stampa/4400-attacco-informatico-comunicato-del-comune-di-mantova",
-        "added": "2024-05-11"
-    },
-    {
-        "date": "2024-04-16",
-        "victim": "Vooruit.brussels",
-        "domain": "vooruit.brussels",
-        "country": "BEL",
-        "summary": "Hackers carried out a cyberattack on the Vooruit.brussels server, stealing personal data such as members' names, addresses and telephone numbers, with a ransom demand of 800 euros. Suzy Bleys, co-president of Vooruit.brussels, reported the incident after the site became inaccessible and the criminal gang contacted them asking for money in Bitcoin. Authorities have been informed and an investigation into the data breach is underway to determine the extent of the compromised information.",
-        "title": "Personal data leaked at Vooruit.brussels: 'Hackers demand 800 euros in ransom' | BRUZZ",
-        "url": "https://www.bruzz.be/actua/politiek/datalek-bij-vooruitbrussels-hackers-vragen-800-euro-losgeld-2024-04-18",
-        "added": "2024-04-19"
-    },
-    {
-        "date": "2024-04-16",
-        "victim": "Norrmjerier",
-        "domain": "norrmjerier.se",
-        "country": "SWE",
-        "summary": "On Tuesday morning, a cyberattack was discovered against Norrmjerier in Umeå, Norran reports. Operations had to be stopped and crisis management activated.",
-        "title": "Cyber ​​attack on dairy - production halted",
-        "url": "https://omni.se/cyberattack-mot-mejeri-produktionen-stoppas/a/yE1Ova",
-        "added": "2024-04-17"
-    },
-    {
-        "date": "2024-04-16",
-        "victim": "Hôpital Simone Veil à Cannes",
-        "domain": "ch-cannes.fr",
-        "country": "FRA",
-        "summary": "The Simone Veil hospital in Cannes has suffered an IT \"blackout\" since Tuesday April 16, leading to the cancellation of interventions and appointments, suspected of being due to a cyber attack, although the hospital mentions officially a “technical incident in progress”. A crisis unit was activated in collaboration with various regional organizations to manage the situation. As a result, all non-urgent activities and consultations are postponed until the computer system is restored.",
-        "title": "IT “black out” at Cannes hospital this Tuesday, “technical incident” or cyberattack? - Var-Matin",
-        "url": "https://www.varmatin.com/sante/l-hopital-de-cannes-est-il-victime-d-une-cyber-attaque-915838",
-        "added": "2024-04-17"
-    },
-    {
-        "date": "2024-04-15",
-        "victim": "Cenans",
-        "domain": "",
-        "country": "FRA",
-        "summary": "The town hall was the victim of a cryptovirus, according to the Déclic association.",
-        "title": "",
-        "url": "https://www.linkedin.com/posts/asso-declic_attaques-cybersécurité-auprès-dorganismes-activity-7189253897910149120-m8_j/",
-        "added": "2024-05-29"
-    },
-    {
-        "date": "2024-04-15",
-        "victim": "Katholische Jugendfürsorge der Diözese Augsburg (KJF)",
-        "domain": "kjf-augsburg.de",
-        "country": "DEU",
-        "summary": "The Catholic Jugendfürsorge der Diözese Augsburg (KJF) was the victim of a professional cyberattack in mid-April, during which personal, financial, patient and health data were stolen from several of its establishments, including the largest maternity hospital in the region, the Josefinum in Augsburg. The hackers accessed parts of the KJF's IT infrastructure, but it appears that treatment documents or medical letters were not stolen. The KJF has set up a hotline for potentially affected people and advises changing passwords and carefully monitoring bank accounts to prevent theft.",
-        "title": "Cyber ​​attack: Hackers steal data from patients at KJF Augsburg",
-        "url": "https://www.augsburger-allgemeine.de/bayern/cyberangriff-hacker-stehlen-daten-von-patienten-der-kjf-augsburg-id70612686.html",
-        "added": "2024-05-01"
-    },
-    {
-        "date": "2024-04-15",
-        "victim": "Comté de Coffee, Géorgie",
-        "domain": "coffeecountygov.com",
-        "country": "USA",
-        "summary": "The IT infrastructure of Coffee County, Georgia, already at the center of controversy over allegations of fraud in the 2020 US presidential election, was the victim of a cyberattack in early April, resulting in its access to election systems being cut off from the state as a precautionary measure. No evidence of data exfiltration was found, but the malicious activity was detected by the Cybersecurity and Infrastructure Security Agency. This attack comes as other Georgia counties are embroiled in legal battles over attempted surrenders.",
-        "title": "Cyberattack hits Georgia county at center of voting software breach | CyberScoop",
-        "url": "https://cyberscoop.com/cyberattack-hits-georgia-county-at-center-of-voting-software-breach/",
-        "added": "2024-04-27"
     }
 ]
