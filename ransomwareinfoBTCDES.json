@@ -36,9 +36,9 @@
         "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
     },
     {
-        "title": "Netwalker",
-        "description": "Black Basta first emerged in early 2022. The ransomware family is an evolution of the Hermes/Ryuk/Conti families. Black Basta was heavily advertised in underground cybercrime markets. Black Basta practices double extortion – demanding payment for a decryptor, as well as for the non-release of stolen data. There are Windows and Linux variants of Black Basta ransomware.",
-        "url": "www.Black_Basta.com",
+        "title": "Netwalker (Mailto)",
+        "description": "Netwalker ransomware (also known as Mailto ransomware) is a Microsoft Windows-specific malware that encrypts and exfiltrates files from the victim's computer. During a successful Netwalker ransomware attack, the victim's files will be inaccessible without a decryption key, and the cybercriminals may also publish the stolen files publicly as proof of a successful breach.",
+        "url": "www.Netwalker.com",
         "md5": "sdasdsda744anbmty051deefbf2c6dfgdfg"
     }
 ]
